@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <div>
-  <h3> 💻 Languajes y Herramientas </h3>
+  <h3> 💻 Lenguajes y Herramientas </h3>
   <p>
  
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
