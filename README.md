@@ -1,5 +1,7 @@
 ### Hola mundo! 👋
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo024&show_icons=true&theme=github_dark)
 
@@ -15,5 +17,9 @@
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <p>
 </div> 
+
+</div>
+
+
 
   
