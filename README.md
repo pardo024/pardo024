@@ -1,6 +1,6 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo024&show_icons=true&theme=github_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardo024&show_icons=true&theme=github_dark)]
  <div>
   <h3> 💻 Lenguajes y Herramientas </h3>
   <p>
